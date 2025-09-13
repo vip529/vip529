@@ -35,7 +35,7 @@ Lately, I’m exploring **AI for frontend devs** — workflows that save hours o
 
 🐦 [Follow me on Twitter](https://twitter.com/vipiny01) — daily learnings & guides  
 💼 [Connect on LinkedIn](https://linkedin.com/in/vipinyadav0) — professional updates  
-📬 [Email me](mailto:srvip028@gmail.com) — collaborations & projects
+📬 [Email me](mailto:vipiny.pro@gmail.com) — collaborations & projects
 
 ---
 
