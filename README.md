@@ -1,6 +1,6 @@
 # Hi, I'm Vipin 👋  
 
-💻 Senior Software Engineer @ Optym  
+💻 Principal Software Engineer @ Optym  
 ⚡ Specializing in **Enterprise Frontend (Next.js, Module Federation, WebGL, MUI, TypeScript)**  
 🤖 Exploring **AI × Frontend workflows**  
 📚 Sharing guides & kits soon → [Twitter](https://twitter.com/vipiny01) | [LinkedIn](https://linkedin.com/in/vipinyadav0)
