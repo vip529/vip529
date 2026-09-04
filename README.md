@@ -1,46 +1,64 @@
-# Hi, I'm Vipin 👋  
+# Hi, I'm Vipin Yadav 👋
 
-💻 Principal Software Engineer @ Optym  
-⚡ Specializing in **Enterprise Frontend (Next.js, Module Federation, WebGL, MUI, TypeScript)**  
-🤖 Exploring **AI × Frontend workflows**  
-📚 Sharing guides & kits soon → [Twitter](https://twitter.com/vipiny01) | [LinkedIn](https://linkedin.com/in/vipinyadav0)
+Principal Software Engineer building AI-native developer platforms and large-scale enterprise applications.
 
----
+I work across system architecture, frontend engineering, backend services, cloud infrastructure, and developer experience. At Optym, I have earned two promotions and now lead architecture and engineering practices across multiple teams.
 
-## 🚀 About
-I build and scale enterprise-grade frontend platforms with a focus on **performance, modularity, and developer experience**.  
-My work spans **microfrontends (Module Federation)**, **advanced graphics with WebGL**, and **robust UI systems** used across teams.  
-Lately, I’m exploring **AI for frontend devs** — workflows that save hours off setup and iteration.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vipinyadav0-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vipinyadav0)
+[![Email](https://img.shields.io/badge/Email-vipiny.pro%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vipiny.pro@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-2ea44f?style=flat&logo=adobeacrobatreader&logoColor=white)](./Vipin_Yadav_2026.pdf)
 
----
+## About Me
 
-## 🔧 Tech I Work With
+- Principal Software Engineer at Optym, promoted twice during my tenure
+- Architect of Rune, an autonomous coding-agent platform used by 20+ engineers
+- Experienced in building large-scale React applications, micro-frontends, design systems, and data-intensive enterprise products
+- Working across React, Next.js, TypeScript, Python, .NET, PostgreSQL, Kubernetes, and Azure
+- Leading architecture and code reviews across three teams while mentoring 10+ engineers
+- Particularly interested in coding agents, context engineering, distributed systems, frontend architecture, and developer productivity
 
-🟦 **Core** → React · Next.js · TypeScript · JavaScript · Python  
-🏢 **Enterprise Frontend** → Module Federation · mobx-state-tree · Zustand · MUI · AG Grid · Bryntum Scheduler Pro  
-🎨 **Graphics** → WebGL · Canvas 2D  
-⚙️ **Tooling & CI/CD** → pnpm · Storybook · Jest · Azure DevOps · Docker  
-🤖 **AI** → LLMs · MCP · AI dev workflows
+## Selected Impact
 
----
+- Architected Rune, an AI-native engineering platform using OpenHands, isolated Kubernetes workloads, KEDA-based scaling, authentication, observability, and AI cost analytics
+- Built frontend architecture for three large-scale React applications central to business-unit revenue
+- Scaled interactive WebGL visualizations beyond 100,000 data points while preserving smooth zooming and panning
+- Reduced critical real-time workflows from minutes to approximately 1-2 seconds across React, SignalR, and .NET
+- Created a shared MUI component platform adopted across multiple enterprise applications
+- Built complex grids, Gantt and scheduling workflows, scenario-management tools, KPI dashboards, administrative consoles, and role-based systems
 
-## 📌 Featured Projects (Coming Soon)
-- 🚀 **Enterprise Frontend Starter Kit** — Next.js + Module Federation + TypeScript boilerplate for scalable apps  
-- 🎨 **WebGL UI Components** — Interactive grids & visualizations for complex enterprise data  
-- 🤖 **AI Dev Workflows** — Practical agents/LLM integrations that boost frontend productivity
+## Technology
 
----
+**Languages**
 
-## 🌐 Connect
+TypeScript · Python · JavaScript · C#
 
-🐦 [Follow me on Twitter](https://twitter.com/vipiny01) — daily learnings & guides  
-💼 [Connect on LinkedIn](https://linkedin.com/in/vipinyadav0) — professional updates  
-📬 [Email me](mailto:vipiny.pro@gmail.com) — collaborations & projects
+**AI and Agent Systems**
 
----
+OpenHands · Coding Agents · Agent Orchestration · Context Engineering · LLM Routing · Azure AI Foundry · LiteLLM · MCP · AI Usage Analytics · Cost Governance
 
-## 📈 Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vip529&show_icons=true&theme=tokyonight" alt="vip529 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vip529&theme=tokyonight" alt="vip529 streak" />
-</p>
+**Frontend**
+
+React · Next.js · TanStack Start · Module Federation · Micro-frontends · WebGL · MUI · Base UI · Jotai · MobX-State-Tree · SWR · AG Grid · Bryntum · Storybook
+
+**Backend and Data**
+
+.NET · FastAPI · PostgreSQL · REST APIs · SignalR · Asynchronous Processing · Authentication and Authorization
+
+**Cloud and Engineering**
+
+Kubernetes · AKS · KEDA · Azure · Microsoft Entra ID · Azure DevOps · Docker · CI/CD · Sandboxed Workloads · Distributed Systems · Observability
+
+## Current Interests
+
+- Production-grade autonomous coding agents
+- Secure and scalable agent sandboxes
+- AI observability, evaluation, and cost governance
+- Context engineering and repository-level agent instructions
+- High-performance enterprise frontend architecture
+- Developer platforms that connect AI workflows with existing engineering systems
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/vipinyadav0)
+- [Email](mailto:vipiny.pro@gmail.com)
+- [View or download my resume](./Vipin_Yadav_2026.pdf)
