@@ -1,64 +1,54 @@
-# Hi, I'm Vipin Yadav 👋
+<h1 align="center">Hi, I'm Vipin 👋</h1>
 
-Principal Software Engineer building AI-native developer platforms and large-scale enterprise applications.
+<p align="center">
+  <strong>Principal Software Engineer building AI-native systems and high-performance enterprise products.</strong>
+</p>
 
-I work across system architecture, frontend engineering, backend services, cloud infrastructure, and developer experience. At Optym, I have earned two promotions and now lead architecture and engineering practices across multiple teams.
+<p align="center">
+  <a href="https://linkedin.com/in/vipinyadav0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vipiny.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vipinyadav0-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vipinyadav0)
-[![Email](https://img.shields.io/badge/Email-vipiny.pro%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vipiny.pro@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-2ea44f?style=flat&logo=adobeacrobatreader&logoColor=white)](./Vipin_Yadav_2026.pdf)
+---
 
-## About Me
+### Building systems that get difficult work done
 
-- Principal Software Engineer at Optym, promoted twice during my tenure
-- Architect of Rune, an autonomous coding-agent platform used by 20+ engineers
-- Experienced in building large-scale React applications, micro-frontends, design systems, and data-intensive enterprise products
-- Working across React, Next.js, TypeScript, Python, .NET, PostgreSQL, Kubernetes, and Azure
-- Leading architecture and code reviews across three teams while mentoring 10+ engineers
-- Particularly interested in coding agents, context engineering, distributed systems, frontend architecture, and developer productivity
+At **Optym**, I architect and deliver AI-agent platforms and enterprise products across frontend, backend, and cloud infrastructure. My focus is turning complex engineering problems into reliable systems that teams can ship, operate, and scale.
 
-## Selected Impact
+### Selected Impact
 
-- Architected Rune, an AI-native engineering platform using OpenHands, isolated Kubernetes workloads, KEDA-based scaling, authentication, observability, and AI cost analytics
-- Built frontend architecture for three large-scale React applications central to business-unit revenue
-- Scaled interactive WebGL visualizations beyond 100,000 data points while preserving smooth zooming and panning
-- Reduced critical real-time workflows from minutes to approximately 1-2 seconds across React, SignalR, and .NET
-- Created a shared MUI component platform adopted across multiple enterprise applications
-- Built complex grids, Gantt and scheduling workflows, scenario-management tools, KPI dashboards, administrative consoles, and role-based systems
+- Architected **Rune**, an autonomous coding-agent platform that transforms engineering issues into review-ready pull requests across repositories
+- Built production AI workflows spanning agent orchestration, isolated execution, observability, evaluation, and cost governance
+- Architected large-scale React applications and reusable frontend foundations for complex enterprise products
+- Engineered high-performance WebGL visualizations for dense, interactive datasets
+- Redesigned React, SignalR, and .NET workflows to deliver near-instant real-time experiences
+- Lead architecture reviews, establish engineering standards, and mentor engineers across teams
 
-## Technology
+### Technology
 
-**Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
 
-TypeScript · Python · JavaScript · C#
+**Also working with:** OpenHands · Coding Agents · Context Engineering · LLM Routing · LiteLLM · Module Federation · WebGL · MUI · SignalR · AKS · KEDA
 
-**AI and Agent Systems**
+### Current Focus
 
-OpenHands · Coding Agents · Agent Orchestration · Context Engineering · LLM Routing · Azure AI Foundry · LiteLLM · MCP · AI Usage Analytics · Cost Governance
+Building production-grade coding agents, secure execution environments, AI observability and evaluation, cost-aware LLM platforms, and scalable developer tooling.
 
-**Frontend**
+---
 
-React · Next.js · TanStack Start · Module Federation · Micro-frontends · WebGL · MUI · Base UI · Jotai · MobX-State-Tree · SWR · AG Grid · Bryntum · Storybook
-
-**Backend and Data**
-
-.NET · FastAPI · PostgreSQL · REST APIs · SignalR · Asynchronous Processing · Authentication and Authorization
-
-**Cloud and Engineering**
-
-Kubernetes · AKS · KEDA · Azure · Microsoft Entra ID · Azure DevOps · Docker · CI/CD · Sandboxed Workloads · Distributed Systems · Observability
-
-## Current Interests
-
-- Production-grade autonomous coding agents
-- Secure and scalable agent sandboxes
-- AI observability, evaluation, and cost governance
-- Context engineering and repository-level agent instructions
-- High-performance enterprise frontend architecture
-- Developer platforms that connect AI workflows with existing engineering systems
-
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/vipinyadav0)
-- [Email](mailto:vipiny.pro@gmail.com)
-- [View or download my resume](./Vipin_Yadav_2026.pdf)
+<p align="center">
+  <i>Interested in ambitious engineering problems where architecture, product thinking, and execution all matter.</i>
+</p>
